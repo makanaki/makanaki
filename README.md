@@ -1,4 +1,3 @@
 makanaki
 ========
-
-some test repo
+Just some test
